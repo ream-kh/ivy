@@ -13,6 +13,7 @@ Experimental
    :maxdepth: -1
    :caption: Experimental
 
+   experimental/l2_normalize.rst
    experimental/triu_indices.rst
    experimental/vorbis_window.rst
    experimental/hann_window.rst
@@ -93,6 +94,7 @@ Experimental
    experimental/zeta.rst
    experimental/gradient.rst
    experimental/xlogy.rst
+   experimental/real.rst
    experimental/is_ivy_sparse_array.rst
    experimental/is_native_sparse_array.rst
    experimental/native_sparse_array.rst
